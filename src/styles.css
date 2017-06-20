@@ -1,0 +1,18 @@
+body {
+    font-family: "Droid Sans", Helvetica, Arial, Verdana, sans-serif;
+}
+
+.content-container {
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 0 15px;
+}
+
+/**************\
+    Mobile
+\**************/
+@media (max-width: 1450px){
+    .content-container {
+        margin: 0;
+    }
+}

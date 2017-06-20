@@ -1,0 +1,9 @@
+.gallery {
+  margin-top: 125px;
+}
+
+@media(max-width: 767px) {
+  .gallery {
+    margin-top: 70px;
+  }
+}

@@ -1,0 +1,25 @@
+.footer {
+    padding: 20px 0;
+    font-size: 12px;
+    color: white;
+    background-color: #4b4c49;
+}
+
+    .footer a{
+        text-decoration: underline;
+        color: white;
+    }
+    
+    .footer .location {
+        text-align: center;
+    }
+
+@media(max-width: 767px) {
+    .footer .mission {
+        text-align: justify;
+    }
+
+    .footer .copyright {
+        text-align: center;
+    }
+}
