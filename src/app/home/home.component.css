@@ -181,6 +181,10 @@
     font-size: 16px;
 }
 
+    .signature img {
+        margin-left: -8px;
+    }
+
     .signature p {
         margin: 0;
     }
