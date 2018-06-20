@@ -192,6 +192,18 @@
 /******************\
     Mobile
 \******************/
+@media (min-width: 901px) and (max-width: 1000px) {
+    #join-beta-sig p {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 900px) {
+    #join-beta-sig p {
+        font-size: 15px;
+    }
+}
+
 @media (max-width: 768px){
     .three-s {
         font-size: 28px;
