@@ -1,0 +1,55 @@
+*{
+    margin: auto;
+}
+.exec-bios {
+    margin-top: 125px;
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 10px;
+}
+
+table {
+    align-content: center;
+    width: 55%;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 220px;
+    height: 250px;
+}
+
+#profile {
+    width: 100%;
+    min-height: 350px;
+    background-color: maroon;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+}
+
+#profile img {
+    display: inline-block;
+    float: left;
+}
+
+.profile_name {
+    font-family: 'Oswald', sans-serif;
+    background-color: black;
+    color: white;
+    width: 480px;
+    font-size: 2em;
+    padding: 10px;
+}
+
+.profile_details {
+    margin-top: 20px;
+    margin-left: 220px;
+    color: white;
+    font-size: 1.4em;
+}

@@ -1,6 +1,7 @@
 import { NgModule }             from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { HomeComponent } from './home/home.component';
+import { ExecBiosComponent } from './exec-bios/exec-bios.component';
 import { GalleryComponent } from './gallery/gallery.component';
 
 const routes: Routes = [
@@ -8,6 +9,7 @@ const routes: Routes = [
     { path: '#who-we-are', component: HomeComponent},
     { path: '#join-beta-sig', component: HomeComponent},
     { path: '#presidents-corner',  component: HomeComponent },
+    { path: 'exec-bios', component: ExecBiosComponent },
     { path: 'gallery',  component: GalleryComponent },
 ];
 

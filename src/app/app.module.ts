@@ -12,6 +12,7 @@ import { HomeComponent } from './home/home.component';
 import { GalleryComponent } from './gallery/gallery.component';
 import { NavigationComponent } from './navigation/navigation.component';
 import { FooterComponent } from './footer/footer.component';
+import { ExecBiosComponent } from './exec-bios/exec-bios.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { FooterComponent } from './footer/footer.component';
     HomeComponent,
     GalleryComponent,
     NavigationComponent,
-    FooterComponent
+    FooterComponent,
+    ExecBiosComponent
   ],
   imports: [
     BrowserModule,
