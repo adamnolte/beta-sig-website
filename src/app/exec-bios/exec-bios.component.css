@@ -5,6 +5,21 @@
     margin-top: 125px;
 }
 
+.headerContainer {
+    margin: auto;
+    text-align: center;
+    width: 40%;
+    margin-bottom: 20px;
+    border: 10px solid black;
+}
+
+.headerContainer img {
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
 h1 {
     margin: auto;
     text-align: center;
