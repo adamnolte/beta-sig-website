@@ -13,6 +13,7 @@ import { GalleryComponent } from './gallery/gallery.component';
 import { NavigationComponent } from './navigation/navigation.component';
 import { FooterComponent } from './footer/footer.component';
 import { ExecBiosComponent } from './exec-bios/exec-bios.component';
+import { ScholarshipsComponent } from './scholarships/scholarships.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { ExecBiosComponent } from './exec-bios/exec-bios.component';
     GalleryComponent,
     NavigationComponent,
     FooterComponent,
-    ExecBiosComponent
+    ExecBiosComponent,
+    ScholarshipsComponent
   ],
   imports: [
     BrowserModule,
